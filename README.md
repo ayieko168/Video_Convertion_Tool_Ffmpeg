@@ -1,0 +1,1 @@
+Video_Convertion_Tool_Ffmpeg is a video convertion tool built using pyqt, and ffmpeg used to convert videos.
